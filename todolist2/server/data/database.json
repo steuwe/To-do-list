@@ -1,0 +1,24 @@
+[
+	{
+		"user": "default",
+		"lists": [
+			{
+				"name": "Test List",
+				"items": [
+					{
+						"name": "TestItem 1",
+						"done": false
+					},
+					{
+						"name": "TestItem 2",
+						"done": true
+					}
+				]
+			},
+			{
+				"name": "Empty List",
+				"items": []
+			}
+		]
+	}
+]
